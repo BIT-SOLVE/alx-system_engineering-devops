@@ -1,0 +1,5 @@
+#!/bin/bash
+su betty
+
+chmod u+x
+--chmod=+x
